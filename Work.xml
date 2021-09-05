@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Friends>
+    <friend>
+        <name>Andrey</name>
+        <Age>29</Age>
+        <job>locksmith</job>
+    </friend>
+    <friend>
+        <name>Egor</name>
+        <age>28</age>
+        <job>mechanic</job>
+    </friend>
+    <friend>
+        <name>Rostik</name>
+        <age>27</age>
+        <job>climber</job>
+    </friend>
+    <friend>
+        <name>Darina</name>
+        <age>24</age>
+        <job>manicurist</job>
+    </friend>
+    <friend>
+        <name>Semen</name>
+        <age>26</age>
+        <job>foreman</job>
+    </friend>
+</Friends>

@@ -1,0 +1,23 @@
+{
+    "friends":[{
+        "name": "Andrey",
+        "age": 29,
+        "job": "locksmith"
+    }, {
+        "name": "Egor",
+        "age": 28,
+        "job": "mechanic"
+    }, {
+        "name": "Rostik",
+        "age": 27,
+        "job": "climber"
+    }, {
+        "name": "Darina",
+        "age": 24,
+        "job": "manicurist"
+    },{
+        "name":"Semen",
+        "age": 26,
+        "job": "foreman"
+    }]
+}
